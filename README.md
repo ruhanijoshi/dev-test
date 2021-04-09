@@ -2,14 +2,14 @@
 Welcome to MageMontreal Developer Test. In advance, we would like to thank you for participating and contributing in this process.
 
 ## Common Steps
-1. Use Git best practices in this repository.
-2. Fork this repository to your personal Github account, and make it private.  
-3. Install Magento with this code in your local machine and work on it in the requirements for your position.
-4. When you finish, please add cainan@magemontreal.com to review it.
+1. Fork this repository to your personal Github account, and make it private.  
+2. Install Magento with this code in your local machine and work on it in the requirements for your position.
+3. When you finish, please add cainan@magemontreal.com to review it.
 
 Please, be atemptive to:
+- use Git best practices.
 - follow Magento coding standards.
-- use programming best practices
+- use programming best practices.
 - follow programming principles - like SOLID, DRY and KISS.
 - show the best design patterns.
     
